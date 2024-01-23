@@ -2,7 +2,7 @@
 
 ## About 
 
-Daily planner is a simple calendar application to help record events for business hours in a given day to manage time effectively. The application is developed using HTML, JavaScript and JQuery and runs in the browser loaded dynamically with the recorded events for the given day.
+Daily planner is a simple calendar application to help allows a user to save events for each hour of the day to manage time effectively. The application is developed using HTML, JavaScript and JQuery and runs in the browser loaded dynamically with the recorded events for the given day.
 
 ## Table of contents
 
@@ -16,12 +16,10 @@ Daily planner is a simple calendar application to help record events for busines
 
 The application is compatible with most commonly used web browsers.
 
-The published website is accessible at   <a href=""><img src="https://img.shields.io/badge/see-published-site"  alt="Live Site" /></a>
-
+The published website is accessible at   <a href="https://dhivyakk.github.io/daily-planner-app/"><img src="https://img.shields.io/badge/see-published-site"  alt="Live Site" /></a>
 
 Github code for the application is available at
     <a href="https://github.com/DhivyaKK/daily-planner-app.git"><img src="https://img.shields.io/badge/git-code-repository"  alt="github code repository" /></a>
-
 
 ## Usage
 
